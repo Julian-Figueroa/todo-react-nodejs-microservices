@@ -22,6 +22,8 @@ kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/mast
 ```
 ### Config `hosts` file
 
-``` 127.0.0.1       users.com
+``` 
+127.0.0.1       users.com
+```
 
 
